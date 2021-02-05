@@ -19,7 +19,7 @@ configurations {
 }
 
 dependencies {
-    compileOnly 'com.destroystokyo.paper:paper-api:1.16.4-R0.1-SNAPSHOT'
+    compileOnly 'com.destroystokyo.paper:paper-api:1.16.5-R0.1-SNAPSHOT'
 
     extraLibs 'com.github.bscal:LogCraft:1.2.0'
 
